@@ -1,0 +1,8 @@
+
+## question
+------
+Resolving ORA-16857 on DGMGRL (Doc ID 2498020.1)
+Resolving error, ORA-16857: standby disconnected from redo source for longer than specified threshold
+
+-------
+
